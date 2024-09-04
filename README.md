@@ -44,8 +44,7 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 
 ## Mobile 
 
-![WhatsApp Image 2024-09-04 at 18 59 18_7179a4b6](https://github.com/user-attachments/assets/bed7dadc-54d5-4d85-86e9-36b3a740148a)
-
+<img src="https://github.com/user-attachments/assets/bed7dadc-54d5-4d85-86e9-36b3a740148a" width=360 height=640>
 
 # Trends and Growth Analysis
 ## Desktop
@@ -53,7 +52,7 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 
 ## Mobile
 
-![WhatsApp Image 2024-09-04 at 18 59 19_66d89758](https://github.com/user-attachments/assets/d5d051e3-89e2-43e9-a141-c590e38b9214)
+<img src="https://github.com/user-attachments/assets/d5d051e3-89e2-43e9-a141-c590e38b9214" width=360 height=640>
 
 
 # Regional Comparision & Revenue
@@ -63,7 +62,7 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 
 ## Mobile
 
-![WhatsApp Image 2024-09-04 at 18 59 19_4deb28c5](https://github.com/user-attachments/assets/4b5ff345-a5d0-43fe-b097-f31db07a7019)
+<img src="https://github.com/user-attachments/assets/4b5ff345-a5d0-43fe-b097-f31db07a7019" width=360 height=640>
 
 
 ## Feedback and Contributions
