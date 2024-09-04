@@ -37,34 +37,33 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 
 # Dashboard Preview:
 
-# Key Insights
+# Sales $ Market Overview
 ## Desktop
 
-![Sales_Dashboard_Insights-1](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/f39cf262-a2bc-4c4e-9354-f6d329e11cb8)
+![Screenshot 2024-09-04 174133](https://github.com/user-attachments/assets/2114c7d2-0ddf-4773-9eb6-db035109e914)
 
 ## Mobile 
 
-<img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/c93bacb0-158b-4eaf-bb31-579d7d1d8943" width=360 height=640>
+![WhatsApp Image 2024-09-04 at 18 59 18_7179a4b6](https://github.com/user-attachments/assets/bed7dadc-54d5-4d85-86e9-36b3a740148a)
 
 
-# Profit Analysis
+# Trends and Growth Analysis
 ## Desktop
-
-![Sales_Dashboard_Insights-2](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/1d168e66-0068-4a56-9e27-ff8fbc610437)
+![Screenshot 2024-09-04 174015](https://github.com/user-attachments/assets/454b745c-e9f0-405b-b648-6c4676f23f6c)
 
 ## Mobile
 
-<img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/0e1952ed-b1fb-437e-88ac-1df887ba4701" width=360 height=640>
+![WhatsApp Image 2024-09-04 at 18 59 19_66d89758](https://github.com/user-attachments/assets/d5d051e3-89e2-43e9-a141-c590e38b9214)
 
 
-# Performance Insights
+# Regional Comparision & Revenue
 ## Desktop
 
-![Sales_Dashboard_Insights-3](https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/94876de7-922d-438a-8a57-f0c62db20b43)
+![Screenshot 2024-09-04 173756](https://github.com/user-attachments/assets/225ca7e1-1c46-4b66-a331-4a43ee5bad4b)
 
 ## Mobile
 
-<img src="https://github.com/ameya182003/Sales_Dashboard_Insights_using_PowerBI/assets/115361241/11cc0648-a669-4200-9a1b-4551ee8fb91e" width=360 height=640>
+![WhatsApp Image 2024-09-04 at 18 59 19_4deb28c5](https://github.com/user-attachments/assets/4b5ff345-a5d0-43fe-b097-f31db07a7019)
 
 
 ## Feedback and Contributions
