@@ -3,7 +3,7 @@
 Developed by [Ameya Modak](https://www.linkedin.com/in/ameya-modak/).
 
 ## 🎯 Project Overview
-This project, part of the Codebasics Resume Project Challenge #11, focuses on analyzing the Indian Electric Vehicle (EV) and Hybrid Vehicle market to support AtliQ Motors in expanding their market presence in India, where their current market share is under 2%.
+This project, part of the Codebasics Resume Project Challenge #12, focuses on analyzing the Indian Electric Vehicle (EV) and Hybrid Vehicle market to support AtliQ Motors in expanding their market presence in India, where their current market share is under 2%.
 
 ## 🔍 Project Journey
 
@@ -13,7 +13,6 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 ### **Tools Used:**
 - **Power BI:** For data analysis and visualization.
 - **Power Query:** For data cleaning and transformation.
-- **Excel:** For data validation and additional calculations.
 
 ## 📈 Approach
 
