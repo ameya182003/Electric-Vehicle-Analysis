@@ -34,9 +34,9 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 - Derived key insights and recommendations to enhance AtliQ Motors' market presence in India.
 - Demonstrated the ability to handle extensive datasets and present findings effectively through data visualization.
 
-# Dashboard Preview:
+# Dashboard View:
 
-# Sales $ Market Overview
+# Sales & Market Overview
 ## Desktop
 
 ![Screenshot 2024-09-04 174133](https://github.com/user-attachments/assets/2114c7d2-0ddf-4773-9eb6-db035109e914)
