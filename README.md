@@ -36,6 +36,8 @@ Analyze the existing EV/Hybrid market in India using available data and provide 
 
 # Dashboard View:
 
+[Live Dashboard Access](https://app.powerbi.com/view?r=eyJrIjoiYTBiZWRhYmMtZGQyZC00YzI2LWFlYTMtZmYzZDkyMWY5NGFlIiwidCI6IjdjOGYxYmIxLWI3ZWEtNDg4OS05ZDIxLWQ0NDNmOWI0MzYyMSJ9)
+
 # Sales & Market Overview
 ## Desktop
 
